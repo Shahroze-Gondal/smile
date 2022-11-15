@@ -1,0 +1,18 @@
+.Person{
+    width: 60% ;
+    background-color: cadetblue;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    padding: 16px ;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+    border-radius: 15px;
+}
+.Person input{
+    padding: 10px 5px;
+    border-radius: 15px;
+    background-color: gray;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
